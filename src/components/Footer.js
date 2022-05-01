@@ -26,9 +26,9 @@ const Footer = () => {
 
   return (
     <BottomNavigation className={classes.bottomNavContainer}>
-      <BottomNavigationAction icon={<Facebook />} className={classes.root} />
-      <BottomNavigationAction icon={<Twitter />} className={classes.root} />
-      <BottomNavigationAction icon={<Instagram />} className={classes.root} />
+      <a href="https://www.facebook.com/profile.php?id=100010280178750" target="_blank"><BottomNavigationAction icon={<Facebook />} className={classes.root} /></a>
+      <a href="https://twitter.com/UMAsince1998" target="_blank"><BottomNavigationAction icon={<Twitter />} className={classes.root} /></a>
+      <a href="https://www.instagram.com/yuma15_58/" target="_blank"><BottomNavigationAction icon={<Instagram />} className={classes.root} /></a>
     </BottomNavigation>
   );
 };
