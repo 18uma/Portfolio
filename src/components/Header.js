@@ -46,13 +46,9 @@ const Header = () => {
       <Typography className={classes.subtitle} variant="h5">
         <Typed
           strings={[
-            "Frontend Developer",
-            "Backend Developer",
-            "Native App Developer",
+              "Welcome to my web page!"
           ]}
-          typeSpeed={40}
-          backSpeed={50}
-          loop
+          typeSpeed={150}
         />
       </Typography>
     </Box>
