@@ -113,15 +113,15 @@ const Resume = () => {
   const classes = useStyles();
   return (
     <Box component="header" className={classes.mainContainer}>
-      <Typography variant="h4" align="center" className={classes.heading}>
-        Working Experience
+      <Typography variant="h4" component='h1' align="center" className={classes.heading}>
+        Academic Background & Working Experience
       </Typography>
       <Box component="div" className={classes.timeLine}>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2013
+          2018
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -129,27 +129,25 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            web design
+            Entered Tokyo Institute of Technology
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Tokyo Institute of Technology
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            In my first year of college, I studied a wide range of liberal arts courses in science and engineering.
+            They were also actively involved in group discussions in class, which helped them to improve their communication and presentation skills.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2014
+          2019  2020
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -157,27 +155,24 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            html & css
+            studied computer science
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Tokyo Institute of Technology
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            In my sophomore and junior years, I studied programming, networking, and databases, which are essential for computer science.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2015
+          2021
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -185,27 +180,25 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Fullstack Javascript
+            Laravel (php) & Fargate (AWS)
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Drafty Corporation
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            At the time I was finishing up a series of computer science classes in college, I wanted to gain some real-world work experience.
+            Then, a college classmate who was running a company at the time was looking for an engineer, so I decided to join him as an intern.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2017
+          2022
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -213,20 +206,18 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Django & React
+            algorithm & API & web Apps
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            self-study
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Recently I have been studying algorithms by solving atcoder's past problems.
+            In addition, I am developing web applications using React and creating APIs.
           </Typography>
         </Box>
       </Box>
