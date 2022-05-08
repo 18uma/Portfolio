@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.015e39d6.chunk.css",
+    "main.js": "/static/js/main.8637a13e.chunk.js",
+    "main.js.map": "/static/js/main.8637a13e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.215ea28e.chunk.js": "/static/js/2.215ea28e.chunk.js",
+    "static/js/2.215ea28e.chunk.js.map": "/static/js/2.215ea28e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8ac6fe7da1677c5d5068b809b1ca4e3.js": "/precache-manifest.d8ac6fe7da1677c5d5068b809b1ca4e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.015e39d6.chunk.css.map": "/static/css/main.015e39d6.chunk.css.map",
+    "static/js/2.215ea28e.chunk.js.LICENSE.txt": "/static/js/2.215ea28e.chunk.js.LICENSE.txt",
+    "static/media/ap.png": "/static/media/ap.6eabbe4b.png",
+    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/dance.png": "/static/media/dance.ca11d780.png",
+    "static/media/profile_image.jpg": "/static/media/profile_image.6bc26192.jpg",
+    "static/media/study.png": "/static/media/study.68116725.png",
+    "static/media/tenmasa.png": "/static/media/tenmasa.6d36f35e.png",
+    "static/media/tennis.png": "/static/media/tennis.16272391.png",
+    "static/media/vr.png": "/static/media/vr.83480c79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.215ea28e.chunk.js",
+    "static/css/main.015e39d6.chunk.css",
+    "static/js/main.8637a13e.chunk.js"
+  ]
+}
