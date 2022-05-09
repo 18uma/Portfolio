@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b88f69-8d8e-49c2-b2f1-f16dd300cc98" name="Changes" comment="write portfolio">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="c4b88f69-8d8e-49c2-b2f1-f16dd300cc98" name="Changes" comment="tmp">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/add_self_info" />
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +70,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +84,7 @@
       <updated>1651388716347</updated>
       <workItem from="1651388729438" duration="5413000" />
       <workItem from="1651467246012" duration="16487000" />
+      <workItem from="1652084921225" duration="1037000" />
     </task>
     <task id="LOCAL-00001" summary="construct environment">
       <created>1651390797322</created>
@@ -126,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651968569662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tmp">
+      <created>1652085598616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652085598616</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tmp">
+      <created>1652085672098</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652085672098</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +159,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/gh-pages" />
                       </list>
                     </value>
                   </entry>
@@ -161,6 +177,7 @@
     <MESSAGE value="small fix of header" />
     <MESSAGE value="write resume" />
     <MESSAGE value="write portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="write portfolio" />
+    <MESSAGE value="tmp" />
+    <option name="LAST_COMMIT_MESSAGE" value="tmp" />
   </component>
 </project>
