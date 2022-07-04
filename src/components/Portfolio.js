@@ -30,7 +30,7 @@ const useStyles = makeStyles((theme) => ({
 
 const projects = [
   {
-    name: "応用情報技術者",
+    name: "応用情報技術者試験",
     description: `ITエンジニアとしての客観的な評価を得るため、2022年春期の試験を受験し、合格しました。`,
     image: project1,
   },
